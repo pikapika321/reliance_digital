@@ -101,7 +101,7 @@ export const FooterCard4 = () => {
       <Center>
         <Text fontSize="14px" p="1">
           {" "}
-          © 2022 Reliance Digital. All Rights Reserved.
+          © 2023 Reliance Digital. All Rights Reserved.
         </Text>
       </Center>
     </Box>
